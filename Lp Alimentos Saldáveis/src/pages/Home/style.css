@@ -1,0 +1,13 @@
+body{
+  background-color: gray;
+  color: wheat;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 15px;
+}
+
+header{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
